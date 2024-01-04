@@ -14,4 +14,4 @@
 -
 > 수업 소스코드는 수업이 진행되면서 여기에 올려드리겠습니다.
 > 
-[01_java](https://github.com/20240201-himedia/01_java)https://github.com/20240201-himedia/01_java)
+[01_java](https://github.com/20240201-himedia/01_java)
